@@ -36,4 +36,10 @@ Para validar a qualidade do software, siga estes passos no IntelliJ:
     * **Barra Vermelha:** Alguma regra de negócio foi alterada ou quebrada.
 
 ---
-Desenvolvido por **Carlos Manoel Justino** 🚀
+
+### Evidência de Sucesso
+
+![Resultado dos Testes](evidencias-testes.png)
+
+---
+Desenvolvido por **Carlos Manoel Justino** 

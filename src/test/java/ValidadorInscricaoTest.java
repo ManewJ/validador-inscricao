@@ -22,7 +22,6 @@ class ValidadorInscricaoTest {
         // Se falhar, o sistema deixou um menor se inscrever
         assertTrue(resultado.contains("REPROVADO"), "ERRO: O sistema deveria ter REPROVADO o menor de idade.");
     }
-
     @Test
     void deveReprovarQuandoPagamentoNaoForConfirmado() {
         // Cenário: Tudo certo, mas pagamento é FALSE
